@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cooliris2010
-- 👀 I’m interested in working with huge datasets
+- 👀 I’m interested in working with huge datasets and see what tools help solve the problems of massive data sets. 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on data analysis, web scraping, complex sql , beautiful tableau visuals. 
 - 📫 How to reach me ...
